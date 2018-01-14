@@ -1,0 +1,181 @@
+.App {
+  text-align: left;
+  background-color: #a2b0db;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #4eabfc;
+  height: 80px;
+  padding: 1px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.5em;
+  margin-bottom: 100px;
+  font-family: 'Handlee';
+  margin-left: 20px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.label,.rand {
+  display:inline
+}
+
+#founder{
+  border: 3px solid #0f71c6;
+  border-radius: 5px;
+  width: 500px;
+  margin-left: 20px;
+  background-color: #f2f6ff;
+  font-family: 'Handlee';
+  font-size: 25px;
+  font-weight: bold;
+  margin-top:20px;
+}
+.rand{
+  font-size: 20px;
+  color: #617382;
+}
+
+.labeel{
+ font-family: 'Handlee';
+  font-size: 25px;
+  font-weight: bold;
+  color: #2e5270;
+}
+
+#founder_list{
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 15px;
+  
+}
+
+#company{
+  border: 3px solid #0f71c6;
+  border-radius: 5px;
+  width: 515px;
+  background-color: #f2f6ff;
+  margin-left: 530px;
+  font-family: 'Handlee';
+  font-size: 25px;
+  font-weight: bold;
+  float: right;
+  margin-top: -1408px;
+}
+
+.form{
+  border-radius: 5px;
+  border: 3px solid #0f71c6;
+  background-color: #f2f6ff;
+  width: 470px;
+  margin-top: 0px;
+  float: right;
+}
+
+.formdiv{
+  margin: 20px;
+}
+.inputuri{
+  font-size: 11pt;
+    width: 60%;
+}
+.labelform{
+    clear: both;
+    width: 35%;
+}
+#button_add_company{
+  margin-left: 155px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 3px solid #0f71c6;
+  background-color: #f2f6ff;
+}
+
+#form_founder{
+  height: 200px;
+  font-family: 'Handlee';
+  font-size: 16px;
+  margin-right: -480px;
+  margin-top: -1100px;
+}
+
+#form_company{
+  height: 270px;
+  font-family: 'Handlee';
+  font-size: 16px;
+  margin-right: 518px;
+  margin-top: -620px;
+}
+
+#title_company,#title_founder{
+  margin-left: 150px;
+}
+
+#title_company{
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.wrap{
+  width: 30%;
+  position: absolute;
+  margin-left: 1000px;
+  margin-top: -60px;
+}
+
+.wrap2{
+  width: 30%;
+  position: absolute;
+  margin-left: 450px;
+  margin-top: -60px;
+}
+
+#formular_founder{
+  margin: 10px;
+  padding: 10px;
+}
+
+.imputuri_form_founder{
+  margin: 10px;
+  padding: 5px;
+}
+ 
+#butoane_founder {
+  padding: 5px;
+  margin-top: 3px;
+  margin-left: 330px;
+  margin-bottom: 10px;
+}
+#butoane_company{
+  padding: 5px;
+  margin-top: 3px;
+  margin-left: 360px;
+  margin-bottom: 10px;
+}
+#butonas,#butonel{
+  margin-right: 10px;
+}
+
+#company_list{
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+#formularul_founder{
+  margin-left: 300px;
+}
